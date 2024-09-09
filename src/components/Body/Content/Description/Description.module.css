@@ -1,0 +1,33 @@
+.section {
+  background: #f7f4f1;
+  width: 100%;
+  height: 318px;
+  font-family: "GT-America-Condensed-Bold", sans-serif;
+}
+
+.innerSection {
+  height: 143px;
+}
+
+.title {
+  color: #f65335;
+  font-style: normal;
+  font-weight: 700;
+  font-size: 40px;
+  line-height: 115%;
+  letter-spacing: -0.07em;
+}
+
+.paragraph p {
+  width: 695px;
+  text-align: center;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  font-style: normal;
+  font-weight: 20;
+  font-size: 20px;
+  line-height: 135%;
+  letter-spacing: 0.005em;
+  color: #304850;
+}

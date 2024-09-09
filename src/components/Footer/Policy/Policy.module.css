@@ -1,0 +1,31 @@
+.container {
+}
+.policy {
+  color: #fff;
+  font-family: "GT-America-Standard-Light", sans-serif;
+  font-style: normal;
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 20px;
+  display: flex;
+  justify-content: space-between;
+}
+.dot {
+  height: 2.5px;
+  width: 2.5px;
+  background-color: #fff;
+  border-radius: 50%;
+  display: inline-block;
+  align-self: center;
+  justify-content: center;
+  margin-left: 5px;
+}
+.list {
+  text-indent: 5px;
+  list-style-type: none;
+}
+
+.list:hover {
+  color: #b0aeae;
+  transition: all 0.6s ease 0s;
+}

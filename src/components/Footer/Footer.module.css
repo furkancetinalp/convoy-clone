@@ -1,0 +1,12 @@
+.footer {
+  display: block;
+  transition: top 0.3s;
+  align-items: center;
+  bottom: 0;
+  left: 0;
+  width: 100%;
+  z-index: 100;
+  user-select: none;
+  background: #0b2127 !important;
+  justify-content: space-between;
+}
